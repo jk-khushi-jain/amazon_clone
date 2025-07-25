@@ -1,2 +1,3 @@
 # amazon_clone
-my first project
+My first project
+Author-Khushi Jai
